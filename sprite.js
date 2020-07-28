@@ -17,3 +17,6 @@ function Sprite(x, y, width, height) {
             this.height);
     }
 }
+
+var sprBackground = new Sprite(0, 0, 600, 600);
+var sprPerson = new Sprite(618, 16, 87, 87);
